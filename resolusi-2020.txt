@@ -3,3 +3,5 @@ RESOLUSI
 - menguasai html
 - menguasai css
 - menguasai javascript
+- menguasai php
+- menguasai ci
