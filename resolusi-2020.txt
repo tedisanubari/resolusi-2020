@@ -1,6 +1,9 @@
-RESOLUSI
-- konsisten upload konten youtube 2x seminggu
+RESOLUSI 2020
+- konsisten upload konten youtube min 2x seminggu
 - menguasai javascript
 - menguasai php
-- menguasai ci
-- menguasai bootstrap
+- menguasai framework css bootstrap
+- menguasai framework js vue
+- menguasai framework php ci
+- menguasai framework php laravel
+
