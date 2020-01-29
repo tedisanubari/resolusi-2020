@@ -6,4 +6,7 @@ RESOLUSI 2020
 - menguasai framework js vue
 - menguasai framework php ci
 - menguasai framework php laravel
+- menguasai API
+- menguasai GIT
+- menguasai database
 
