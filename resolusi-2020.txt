@@ -9,4 +9,5 @@ RESOLUSI 2020
 - menguasai API
 - menguasai GIT
 - menguasai database
+- menguasai flutter
 
